@@ -11,13 +11,13 @@ We’re **Wocktech**, a technology company based in the SIC building, top floor,
 - Custom Accounting Application Building
 
 ## Current Work
-We’re actively working on **advanced AWS services and innovative app solutions**.
+We’re actively working on **Innovative app solutions**.
 
 ## Collaboration
 We’re looking to collaborate on **exciting projects in mobile and web development**, especially those that push the boundaries of technology. 
 
 ## Contact Us
-Feel free to reach out via our website or email at **info@wocktech.com**.
+Feel free to reach out via our website or email at **wocktech.gh@gmail.com**.
 
 ## Pronouns
 We use **they/them**.
